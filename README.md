@@ -1,9 +1,9 @@
 # Hello, I'm Brent Roberson II
 <a href="https://www.linkedin.com/in/brent-roberson-ii/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+## Introduction
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm an Air Force veteran transitioning from the eletronics career field to SOC analyst.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
