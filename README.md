@@ -3,10 +3,9 @@
 
 ## Introduction
 
-I'm an Air Force veteran transitioning from the eletronics career field to SOC analyst.
+I'm an Air Force veteran with an interest in cyber defense and problem solving.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
