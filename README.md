@@ -3,7 +3,7 @@
 
 ## Introduction
 
-I'm an Air Force veteran with an interest in cyber defense and problem solving.
+I'm an Air Force veteran and graduate with an interest in cyber defense and problem solving.
 
 ## Objective
 
